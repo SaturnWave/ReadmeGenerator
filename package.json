@@ -24,12 +24,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DianaLRS/Readme-Generator.git"
+    "url": "git+https://saturnwave.github.io/ReadmeGenerator/"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DianaLRS/Readme-Generator/issues"
+    "url": "https://saturnwave.github.io/ReadmeGenerator/issues"
   },
-  "homepage": "https://github.com/DianaLRS/Readme-Generator#readme"
+  "homepage": "https://saturnwave.github.io/ReadmeGenerator/#readme"
