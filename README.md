@@ -1,7 +1,7 @@
 
 
 # README-Generator 
-https://github.com/DianaLRS/README-Generator 
+https://github.com/SaturnWave/ReadmeGenerator
 # Description
 This app allows developers to create a professional README.md file in a way that is clean, efficient, and easy to use. 
 # Table of Contents 
@@ -23,4 +23,4 @@ This project is licensed under the MIT license.
 # Tests
 The following is needed to run the test: node index.js
 # Questions
-If you have any questions about the repo, open an issue or contact DianaLRS directly at : dlramos194@gmail.com.
+If you have any questions about the repo, open an issue or contact DianaLRS directly at : achome7203@gmail.com
